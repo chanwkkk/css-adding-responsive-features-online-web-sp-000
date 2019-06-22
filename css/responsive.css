@@ -67,7 +67,7 @@
   #navbar nav a{
     display:none;
   }
-  
+
   #navbar nav a.menu-icon {
     display: block;
     float:right;
@@ -85,5 +85,5 @@
 
 @media only screen and (max-width:500px){
   #logo h2{
-    visibility: 
+    visibility:
   }
